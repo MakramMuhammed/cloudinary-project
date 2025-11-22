@@ -1,1 +1,3 @@
 # cloudinary-project
+
+## Project Outline
